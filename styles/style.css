@@ -57,8 +57,8 @@
 .banner-box {
     display: flex;
     flex-direction: column;
-    padding: 165px 50px 135px 50px;
-    gap: 20px;
+    padding: 165px 50px 125px 50px;
+    gap: 10px;
 }
 
 .banner-box-title {
